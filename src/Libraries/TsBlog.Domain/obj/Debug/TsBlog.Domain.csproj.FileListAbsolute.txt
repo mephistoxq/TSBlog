@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\bin\Debug\TsBlog.Domain.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\bin\Debug\TsBlog.Domain.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\obj\Debug\TsBlog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\obj\Debug\TsBlog.Domain.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\obj\Debug\TsBlog.Domain.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\bin\Debug\SqlSugar.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\obj\Debug\TsBlog.Domain.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Domain\obj\Debug\TsBlog.Domain.csprojAssemblyReference.cache

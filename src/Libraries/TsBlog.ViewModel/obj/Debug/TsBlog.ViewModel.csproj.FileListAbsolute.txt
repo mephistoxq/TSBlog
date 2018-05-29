@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.ViewModel\bin\Debug\TsBlog.ViewModel.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.ViewModel\bin\Debug\TsBlog.ViewModel.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.ViewModel\obj\Debug\TsBlog.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.ViewModel\obj\Debug\TsBlog.ViewModel.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.ViewModel\obj\Debug\TsBlog.ViewModel.pdb

@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\obj\Debug\TsBlog.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\TsBlog.Repositories.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\TsBlog.Repositories.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\TsBlog.Domain.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\TsBlog.Domain.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\obj\Debug\TsBlog.Repositories.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\obj\Debug\TsBlog.Repositories.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\obj\Debug\TsBlog.Repositories.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\TsBlog.Repositories.dll.config
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\MySqlSugar.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\SqlSugar.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\bin\Debug\MySqlSugar.xml
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Repositories\obj\Debug\TsBlog.Repositories.csprojAssemblyReference.cache

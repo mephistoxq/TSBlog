@@ -1,0 +1,9 @@
+﻿@model TsBlog.ViewModel.Post.PostViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = Model.Title;
+}
+<h1 class="post-title">@Model.Title</h1>
+<article class="article-content">
+    @Html.Raw(Model.Content)
+</article>

@@ -1,0 +1,35 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IEnumerable<TsBlog.ViewModel.Post.PostViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "ASP.NET MVC 5 系列文章教程--首页";
+}
+<div class="jumbotron">
+    <h1>小伙伴，你好</h1>
+    <p>欢迎来到 Rector 的ASP.NET MVC 5 系列文章教程。在这里，Rector将和你一起一步一步创建一个集成Repository+Autofac+Automapper+SqlSugar的WEB应用程序。</p>
+    <p>你准备好了吗？</p>
+    <p>......</p>
+    <p>让我们开始ASP.NET MVC 5 应用程序的探索之旅吧!!!</p>
+</div>
+<strong class="post-title">文章列表(@(Model.Count())篇)</strong>
+<ul class="list-unstyled post-item-box">
+    @foreach (var p in Model)
+    {
+        <li>
+            <h2><a href="~/post/details/@p.Id">@p.Title</a></h2>
+            <p class="post-item-summary">@p.Summary ... <a href="~/post/details/@p.Id">阅读全文</a></p>
+        </li>
+    }
+</ul>
+@Html.PagedListPager((IPagedList)ViewBag.Pagination, page => Url.Action("index", new { page }), new PagedListRenderOptions
+{
+    LinkToFirstPageFormat = "首页",
+    LinkToPreviousPageFormat = "上一页",
+    LinkToNextPageFormat = "下一页",
+    LinkToLastPageFormat = "末页",
+    DisplayLinkToFirstPage = PagedListDisplayMode.IfNeeded,
+    DisplayLinkToLastPage = PagedListDisplayMode.Never,
+    DisplayEllipsesWhenNotShowingAllPageNumbers = true,
+    MaximumPageNumbersToDisplay = 5
+})

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Core\bin\Debug\TsBlog.Core.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Core\bin\Debug\TsBlog.Core.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Core\obj\Debug\TsBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Core\obj\Debug\TsBlog.Core.dll
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Core\obj\Debug\TsBlog.Core.pdb
+C:\Users\Administrator\source\repos\TsBlog\src\Libraries\TsBlog.Core\obj\Debug\TsBlog.Core.csprojAssemblyReference.cache
